@@ -1,0 +1,3 @@
+/*I am a Java student at WGU and am making this guie to hopefully break down the beginnings of Java to hopefully be better at explaining and maybe help some people out.
+If I am not doing a good job please let me know. 
+If you would like to collaborate let me know as well*/
